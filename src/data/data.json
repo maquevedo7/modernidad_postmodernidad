@@ -1,0 +1,247 @@
+[
+    
+    {
+
+        "id": 1,
+        "title": "Expanding cards",
+        "description":"we will see how we can create an expanding card that displays an expanded view of the card on click.",
+        "img": "https://i.ibb.co/VQ5pHvq/Expanding-Cards.png", 
+        "github": "https://github.com/maquevedo7/expanding_cards.git",
+        "deploy": "https://maquevedo7.github.io/expanding_cards/"
+
+    },
+    {
+
+        "id": 2,
+        "title": "Progress steps",
+        "description":"Progress steps are great for user experience. You typically find these on signup pages and checkout forms where the user needs to enter data across multiple steps.",
+        "img": "https://i.ibb.co/dbHwc89/Progress-Steps.jpg", 
+        "github": "https://github.com/maquevedo7/progress-Steps",
+        "deploy": "https://maquevedo7.github.io/progress-Steps/"
+
+    },
+    {
+
+        "id": 3,
+        "title": "Rotating navigation",
+        "description":"with a click event and an arrow function create the effect to open and close the navigation",
+        "img": "https://i.ibb.co/MBrKY1p/RN.png", 
+        "github": "https://github.com/maquevedo7/rotating_navigation.git",
+        "deploy": "https://maquevedo7.github.io/rotating_navigation/"
+
+    },
+    {
+
+        "id": 4,
+        "title": "Hidden search",
+        "description":"If you click on the magnifying glass, the search bar expands. When you click again, it hides",
+        "img": "https://i.ibb.co/3RB1jt3/Shall-Find.jpg", 
+        "github": "https://github.com/maquevedo7/hidden_search.git",
+        "deploy": "https://maquevedo7.github.io/hidden_search/"
+
+    },
+    {
+
+        "id": 5,
+        "title": "Blurry Loading",
+        "description":"In this challenge you will have a distorted image that will become sharp with the advance of the load",
+        "img": "https://i.ibb.co/4VQRxPP/blurry.jpg", 
+        "github": "https://github.com/maquevedo7/blurry_loading.git",
+        "deploy": "https://maquevedo7.github.io/blurry_loading/"
+
+    },
+    {
+
+        "id": 6,
+        "title": "Drag N Drop",
+        "description":"the user selects a virtual object by `grabbing` it and dragging it to a different location or onto another virtual object.",
+        "img": "https://i.ibb.co/T1zN4pn/drag.jpg", 
+        "github": "https://github.com/maquevedo7/drag-n-drop.git",
+        "deploy": "https://maquevedo7.github.io/drag-n-drop/"
+
+    },
+    {
+
+        "id": 7,
+        "title": "AutoText",
+        "description":"When the page loads, the automatic typing of the chosen phrase is executed",
+        "img": "https://i.ibb.co/BfWH7LT/txt.jpg", 
+        "github": "https://github.com/maquevedo7/autotext.git",
+        "deploy": "https://maquevedo7.github.io/autotext//"
+
+    },
+    {
+
+        "id": 8,
+        "title": "HoverBoard",
+        "description":"In this challenge we have a board, when we pass the pointer over it, it will change it will mark traces with color",
+        "img": "https://i.ibb.co/C6tKRpN/b.jpg", 
+        "github": "n/a",
+        "deploy": "n/a"
+
+    },
+    {
+
+        "id": 9,
+        "title": "Scroll Animation",
+        "description":"In this challenge we will have boxes that will have an effect when the page is scrolled",
+        "img": "https://i.ibb.co/j4D77Mz/sa.png", 
+        "github": "https://github.com/maquevedo7/scroll_animation.git",
+        "deploy": "https://maquevedo7.github.io/scroll_animation/"
+
+    },
+    {
+
+        "id": 10,
+        "title": "Form input wave",
+        "description":"When you select the field to write your email or password, the statement of the field will have a wave effect",
+        "img": "https://i.ibb.co/tzj0qDS/wa.jpg", 
+        "github": "https://github.com/maquevedo7/form_input_wave.git",
+        "deploy": "https://maquevedo7.github.io/form_input_wave/"
+
+    },
+    {
+        "id": 11,
+        "title": "Dad Jokes",
+        "description": "We took a compilation of jokes to be played randomly on screen.",
+        "img": "https://maquevedo7.github.io/dad-jokes/",
+        "github": "https://github.com/maquevedo7/dad-jokes.git",
+        "deploy": "https://maquevedo7.github.io/dad-jokes/"
+    },
+    {
+        "id": 12,
+        "title": "Sound Board",
+        "description": "En este reto creamos un tablero con varios botones que al darle clic suena un sonido diferente.",
+        "img": "https://i.ibb.co/wwPHL3x/12.png",
+        "github": "https://github.com/maquevedo7/sound_board.git",
+        "deploy": "https://maquevedo7.github.io/sound_board/"
+    },
+    {
+        "id": 13,
+        "title": "Live User Filter",
+        "description": "En este reto creamos un filtro donde podremos encontrar a un usuario por su nombre o por su localización, para esto utilizaremos datos de la API Random User Generator .",
+        "img": "https://i.ibb.co/X2RhLzY/13.png",
+        "github": "https://github.com/maquevedo7/live_user_filter.git",
+        "deploy": "https://maquevedo7.github.io/live_user_filter/"
+    },
+    {
+        "id": 14,
+        "title": "Button Ripple Effect",
+        "description": "En este reto creamos un botón que al darle clic nos genera un efecto visual",
+        "img": "https://i.ibb.co/ss23pHv/14.png",
+        "github": "https://github.com/maquevedo7/button_ripple_effect.git",
+        "deploy": "https://maquevedo7.github.io/button_ripple_effect/"
+    },
+    {
+        "id": 15,
+        "title": "Background Slider",
+        "description": "En este reto creamos un carrusel de imágenes donde la imagen de fondo también cambia.",
+        "img": "https://i.ibb.co/chPFYCb/15.png",
+        "github": "https://github.com/maquevedo7/background_slider.git",
+        "deploy": "https://maquevedo7.github.io/background_slider/"
+    },
+    {
+        "id": 16,
+        "img":"https://i.ibb.co/0sgyZCK/Captura-de-pantalla-2021-09-15-164103.jpg",
+        "title":"Kinetic Loader",
+        "description":"With this project we will learn to make a spinner with pure CSS by using frames",
+        "github": "https://github.com/maquevedo7/kinetic_loader.git",
+        "deploy": "https://maquevedo7.github.io/kinetic_loader/"
+
+    },
+    {
+        "id": 17,
+        "img":"https://i.ibb.co/TbH7w7S/Captura-de-pantalla-2021-09-15-164039.jpg",
+        "title":"Netflix Mobile Navigation",
+        "description":"With this project we will create a menu that will be displayed by touching a button",
+        "github": "https://github.com/maquevedo7/netflix_mobile_navigation.git",
+        "deploy": "https://maquevedo7.github.io/netflix_mobile_navigation/"
+    },
+    {
+        "id": 18,
+        "img":"https://i.ibb.co/98GXQPQ/Captura-de-pantalla-2021-09-15-164028.jpg",
+        "title":"Testimonial Box",
+        "description":"With this project we want to make a card that shows information from a list of objects",
+        "github": "https://github.com/maquevedo7/testimonial_bos_switch.git",
+        "deploy": "https://maquevedo7.github.io/testimonial_bos_switch/"
+
+    },
+    {
+
+        "id": 19,
+        "img":"https://i.ibb.co/PZR6kT7/Captura-de-pantalla-2021-09-15-164009.jpg",
+        "title":"Pokedex",
+        "description":"With this project we will create a list of pokemon cards. The information is extracted from an API",
+        "github": "https://github.com/maquevedo7/pokedex.git",
+        "deploy": "https://maquevedo7.github.io/pokedex/"
+
+    },
+    {
+        "id": 20,
+        "img":"https://i.ibb.co/qCpBCGY/Captura-de-pantalla-2021-09-15-164052.jpg",
+        "title":"Double Click Heart",
+        "description":"With this project we will create a card that when we double click on the image a heart will come out",
+        "github": "https://github.com/maquevedo7/double_click_heart.git",
+        "deploy": "https://maquevedo7.github.io/double_click_heart/"
+
+    },
+    {
+        "id":21,
+        "title": "Event Keycodes",
+        "description": "With this program we are going to identify by an event, which key is pressed on the keyboard. and the information to the pressed key will be printed on the screen.",
+        "img": "https://i.ibb.co/NTLb04g/21.png",
+        "github": "https://github.com/maquevedo7/event_key_codes.git",
+        "deploy": "https://maquevedo7.github.io/event_key_codes/"
+    },
+    {
+        "id":22,
+        "title": "Mobile Nav Navigation",
+        "description": "With this program we are going to identify by an event, which icon is pressed on the layout. And the information to the pressed icon in this case an image, will be printed on the layout.",
+        "img": "https://i.ibb.co/Nx5q15j/22.png",
+        "github": "https://github.com/maquevedo7/mobile_nav_navigation.git",
+        "deploy": "https://maquevedo7.github.io/mobile_nav_navigation/"
+    },
+    {
+        "id":23,
+        "title": "Drink Water",
+        "description": "With this program we are going to identify by an event, how many icons are pressed in the layout. And depending on the quantity, we will fill or empty the main image.",
+        "img": "https://i.ibb.co/Tm7jDH6/23.png",
+        "github": "https://github.com/maquevedo7/drink_water.git",
+        "deploy": "https://maquevedo7.github.io/drink_water/"
+    },
+    {
+        "id":24,
+        "title": "Feedback UI Desing",
+        "description": "With this program we are going to identify by an event, which icon is pressed in the layout, which has 3 emojis to measure `satisfaction`. And by pressing the send button, it will show which emoji was selected and a successful delivery message.",
+        "img": "https://i.ibb.co/TTPYfZW/24.png",
+        "github": "https://github.com/maquevedo7/feedback_ui_design.git",
+        "deploy": "https://maquevedo7.github.io/feedback_ui_design/"
+    },
+    {
+        "id":25,
+        "title": "GitHub Profile",
+        "description": "With this program using input, we are going to ask an a username of github, and when press `search`, print the basic info of the user, using the github api",
+        "img": "https://i.ibb.co/dr6CNKR/25.png",
+        "github": "https://github.com/maquevedo7/github_profile.git",
+        "deploy": "https://maquevedo7.github.io/github_profile/"
+    },
+    {
+        "id":26,
+        "title": "StickyNavigation",
+        "description": "With this program using input, we are going to ask an a username of github, and when press `search`, print the basic info of the user, using the github api",
+        "img": "https://i.ibb.co/dr6CNKR/25.png",
+        "github": " ",
+        "deploy": " "
+    },
+    {
+        
+        "id":27,
+        "title": "StickyNavigation",
+        "description": "With this program using input, we are going to ask an a username of github, and when press `search`, print the basic info of the user, using the github api",
+        "img": "https://i.ibb.co/dr6CNKR/25.png",
+        "github": " ",
+        "deploy": " "
+    }
+        
+    
+]
