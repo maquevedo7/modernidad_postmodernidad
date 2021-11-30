@@ -1,5 +1,7 @@
-.nm {
-
-    color: rgb(97, 56, 136);
-
+.name {
+    margin: 1em 0;
+    padding-bottom: 15px;
+    color: #3e5563;
+    font-size: 50px;
+    border-bottom: #729ba1 solid 3px;
 }

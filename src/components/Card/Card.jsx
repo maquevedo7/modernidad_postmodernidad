@@ -1,40 +1,31 @@
-import style from './Card.module.css'
-import React from 'react'
+import style from "./Card.module.css";
+import React from "react";
 
-function Card({props}) {
+function Card({ props }) {
     return (
         <div className={style.cardContainer}>
-
             <figure>
-
                 <img className={style.front} src={props.img} alt="" />
-                
+
                 <figcaption className={style.back}>
-
-                    <div>
-
+                    <div className={style.title}>
                         <h1>{props.title}</h1>
-                    
                     </div>
-
-                    <p>{props.description}</p>
-                    
-                    <div>
-                        
-                        <a href={props.github}><button className={style.btn}>repository</button></a>
-
+                    <div className={style.description}>
+                        <p>{props.description}</p>
                     </div>
-                    <div>
-
-                        <a href={props.deploy}><button className={style.btn}>deploy</button></a>
-
+                    <div className={style.btns}>
+                        <div className={style.btn}>
+                            <a href={props.github}>repository</a>
+                        </div>
+                        <div className={style.btn}>
+                            <a href={props.deploy}>deploy</a>
+                        </div>
                     </div>
-                </figcaption>     
-
+                </figcaption>
             </figure>
-
         </div>
-    )
+    );
 }
 
-export default Card
+export default Card;
