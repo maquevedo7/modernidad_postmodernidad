@@ -5,7 +5,11 @@ import ReactAudioPlayer from "react-audio-player";
 function Button() {
     return (
         <div>
-            <ReactAudioPlayer src="my_audio_file.ogg" autoPlay controls />
+            <ReactAudioPlayer
+                src="../../assets/mod-pm1.mp3"
+                autoPlay
+                controls
+            />
         </div>
     );
 }
