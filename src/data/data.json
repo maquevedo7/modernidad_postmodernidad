@@ -11,10 +11,21 @@
         "info": "https://www.meisterdrucke.es/impresion-art%C3%ADstica/Frans-II-Francken/1028694/La-cocina-de-las-brujas---Frans-Francken,-el-Joven-(1581-1642).-%C3%93leo-sobre-madera,-c.-1610.-Dimensiones-:-52x66,1-cm.-Museo-de-Historia-del-Arte,-Vienne.html"
     },
     {
-        "id": 3,
+        "id": 4,
+        "title": "La bruja de la noche visitando las brujas de Laponia",
+        "autor": "Henry Fuseli",
+        "year": 1796,
+        "material": "Óleo sobre lienzo",
+        "localization": "Museo Metropolitano, Nueva York (Estados Unidos)",
+        "mov": "Romanticismo",
+        "img": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZXAxOTgwLTQxMS1yLTEuanBnIiwicmVzaXplLDIwMDAsMjAwMCJdfQ.1U6ZByG0LRYElc4NfOESXVdoyqPV6yUnaQd2lVSwjTI.jpg",
+        "info": "https://historia-arte.com/obras/la-bruja-de-la-noche-visitando-las-brujas-de-laponia"
+    },
+    {
+        "id": 2,
         "title": "Vuelo de brujas",
         "autor": "Francisco de Goya",
-        "year": 1798,
+        "year": 1797,
         "material": "Óleo sobre lienzo",
         "localization": "Museo del Prado, Madrid",
         "mov": "Romanticismo",
@@ -22,7 +33,7 @@
         "info": "https://historia-arte.com/obras/vuelo-de-brujas-de-goya"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "brujas yendo al sabbath",
         "autor": "Luis Ricardo Falero",
         "year": 1878,
@@ -33,28 +44,15 @@
         "info": "https://historia-arte.com/obras/brujas-yendo-al-sabbath"
     },
     {
-        "id": 4,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
         "id": 5,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
+        "title": "El aquelarre",
+        "autor": "Francisco de Goya",
+        "year": 1798,
+        "material": "Óleo, canvas",
+        "localization": "Museo Lázaro Galdiano, Madrid",
+        "mov": "Romanticismo",
+        "img": "https://uploads4.wikiart.org/00380/images/francisco-goya/3-witches-sabbath-francisco-goya.jpg!Large.jpg",
+        "info": "https://fundaciongoyaenaragon.es/obra/el-aquelarre/526"
     },
     {
         "id": 6,
