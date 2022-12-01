@@ -5,7 +5,7 @@ function Header() {
     return (
         <div>
             <div className={style.header}>
-                <h1 className={style.name}> PROGRAMMING CHALLENGES</h1>
+                <h1 className={style.name}> EL ARTE DE LAS BRUJAS </h1>
             </div>
         </div>
     );

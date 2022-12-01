@@ -1,6 +1,4 @@
 .cardsContainer {
-    max-width: 1200px;
-    margin: 5%;
     display: flex;
     flex-direction: column;
     justify-content: center;

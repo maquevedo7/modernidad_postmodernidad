@@ -16,8 +16,8 @@
 }
 
 figure {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     margin: 0;
     position: relative;
     transition: all ease 0.8s;
@@ -31,7 +31,7 @@ figure .back {
     height: 100%;
     border-radius: 5px;
     transition: all ease 0.8s;
-    background-color: #c3ecda;
+    background-color: hsl(37, 100%, 92%);
 }
 
 figure .front {
@@ -45,29 +45,29 @@ figure .back {
     transform: perspective(600px) rotateY(180deg);
     backface-visibility: hidden;
     overflow: hidden;
-    padding: 2%;
+    padding: 10%;
 }
 
-.title,
-.description {
+.generalContainer {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
 .title {
-    height: 23%;
-    padding: 4px;
-    font-size: 15px;
+    display: grid;
+    align-items: center;
+    font-size: 16px;
     text-transform: uppercase;
+    margin-bottom: 1em;
 }
 
 .description {
-    height: 50%;
-    margin: 5px;
-    padding: 8px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    font-size: 16px;
 }
-
 .btns {
     height: 23%;
     display: flex;
