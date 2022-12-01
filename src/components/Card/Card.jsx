@@ -16,7 +16,7 @@ function Card({ props }) {
                         </div>
                         <div className={style.description}>
                             <p>
-                                <b>Material: </b>
+                                <b>Técnica-material: </b>
                                 <br />
                                 {props.material}
                             </p>{" "}
@@ -35,9 +35,9 @@ function Card({ props }) {
                         </div>
                     </div>
                     <div className={style.btns}>
-                        <a className={style.btn} href={props.rec}>
-                            Información del cuadro
-                        </a>
+                        <div className={style.btn}>
+                            <a href={props.info}>Información del cuadro</a>
+                        </div>
                     </div>
                 </figcaption>
             </figure>

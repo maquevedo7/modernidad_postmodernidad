@@ -1,5 +1,17 @@
 [
     {
+        "id": 13,
+        "title": "Dos brujas",
+        "autor": "Hans Baldung",
+        "year": 1523,
+        "material": "Óleo sobre tabla",
+        "localization": "Städelsches Kunstinstitut, Frankfurt",
+        "mov": "Renacimiento",
+        "img": "https://www.meisterdrucke.es/kunstwerke/1200w/Hans_Baldung_-_Two_Witches_-_%28MeisterDrucke-806506%29.jpg",
+        "info": "https://www.wikiart.org/en/hans-baldung/two-witches-1523",
+        "rec": ""
+    },
+    {
         "id": 1,
         "title": "La cocina de las brujas",
         "autor": "Frans Francken",
@@ -8,7 +20,20 @@
         "localization": "Kunsthistorisches Museum Wien (Museo de Historia del Arte)",
         "mov": "Barroco",
         "img": "https://c8.alamy.com/zoomses/9/c02f443dc0c444f5b498fda12ca98fa1/rcy8yp.jpg",
-        "info": "https://www.meisterdrucke.es/impresion-art%C3%ADstica/Frans-II-Francken/1028694/La-cocina-de-las-brujas---Frans-Francken,-el-Joven-(1581-1642).-%C3%93leo-sobre-madera,-c.-1610.-Dimensiones-:-52x66,1-cm.-Museo-de-Historia-del-Arte,-Vienne.html"
+        "info": "https://www.meisterdrucke.es/impresion-art%C3%ADstica/Frans-II-Francken/1028694/La-cocina-de-las-brujas---Frans-Francken,-el-Joven-(1581-1642).-%C3%93leo-sobre-madera,-c.-1610.-Dimensiones-:-52x66,1-cm.-Museo-de-Historia-del-Arte,-Vienne.html",
+        "rec": "debería llamarse Berganza y Cañizares, pues representa a estos personajes de la Novela Ejemplar de Miguel de Cervantes"
+    },
+    {
+        "id": 14,
+        "title": "Una mujer hace una ceremonia ritual de maldición",
+        "autor": "Katsushika Hokusai",
+        "year": 1760,
+        "material": "Grabado en madera",
+        "localization": "No hay información",
+        "mov": "Ukiyo-e",
+        "img": "https://uploads2.wikiart.org/images/katsushika-hokusai/a-woman-makes-a-cursing-ritual-ceremony.jpg!Large.jpg",
+        "info": "https://en.artsdot.com/@@/8XYD8N-Katsushika-Hokusai-A-woman-makes-a-cursing-ritual-ceremony",
+        "rec": "Ukiyo-e (literalmente, “pinturas del mundo flotante”)"
     },
     {
         "id": 4,
@@ -22,6 +47,18 @@
         "info": "https://historia-arte.com/obras/la-bruja-de-la-noche-visitando-las-brujas-de-laponia"
     },
     {
+        "id": 10,
+        "title": "Brujas a volar",
+        "autor": "Francisco de Goya",
+        "year": 1797,
+        "material": "Aguada, tinta china, sobre papel",
+        "localization": "National Gallery of Art. Washington",
+        "mov": "Romanticismo",
+        "img": "https://fundaciongoyaenaragon.es/files/resize/800x600/files/images/1104_8.4.70a.jpg",
+        "info": "https://fundaciongoyaenaragon.es/obra/brujas-a-volar/1104",
+        "rec": "la máscara de zorra muestra una clara referencia a la prostitución y la palabra volar rotulada es una manera de aludir al acto sexual."
+    },
+    {
         "id": 2,
         "title": "Vuelo de brujas",
         "autor": "Francisco de Goya",
@@ -31,6 +68,89 @@
         "mov": "Romanticismo",
         "img": "http://3.bp.blogspot.com/-iWbfCP7ZWn4/Uyhlq4_swUI/AAAAAAAACA8/nmHnlpthDi8/s1600/17a6be51d3%5B1%5D.jpg",
         "info": "https://historia-arte.com/obras/vuelo-de-brujas-de-goya"
+    },
+    {
+        "id": 9,
+        "title": "Conjuro",
+        "autor": "Francisco de Goya",
+        "year": 1797,
+        "material": "Óleo sobre lienzo",
+        "localization": "Museo Lázaro Galdano , Madrid",
+        "mov": "Romanticismo",
+        "img": "https://uploads6.wikiart.org/images/francisco-goya/incantation.jpg!Large.jpg",
+        "info": "https://pinturasdiversas-demeza.blogspot.com/2013/10/el-conjuro-o-las-brujas-francisco-de_7.html",
+        "rec": "a menudo se acusaba a las brujas de secuestrar y asesinar ritualmente a niños, como parte de un sacrificio a Satán."
+    },
+    {
+        "id": 5,
+        "title": "El aquelarre",
+        "autor": "Francisco de Goya",
+        "year": 1798,
+        "material": "Óleo, canvas",
+        "localization": "Museo Lázaro Galdiano, Madrid",
+        "mov": "Romanticismo",
+        "img": "https://uploads4.wikiart.org/00380/images/francisco-goya/3-witches-sabbath-francisco-goya.jpg!Large.jpg",
+        "info": "https://fundaciongoyaenaragon.es/obra/el-aquelarre/526",
+        "rec": "en aquella época se tenía de las brujas acusadas de chupar la sangre de los niños"
+    },
+    {
+        "id": 6,
+        "title": "El conjuro",
+        "autor": "Francisco de Goya",
+        "year": 1798,
+        "material": "Óleo sobre lienzo",
+        "localization": "Museo Lázaro Galdiano, Madrid",
+        "mov": "Romanticismo",
+        "img": "https://fundaciongoyaenaragon.es/files/resize/800x600/files/images/527_7.4.50.JPG",
+        "info": "http://mismuseos.net/en/community/metamuseo/resource/el-conjuro-o-las-brujas/b3a5143d-478d-4020-ae62-a2a4f76dc33c"
+    },
+    {
+        "id": 7,
+        "title": "La cocina de las brujas",
+        "autor": "Francisco de Goya",
+        "year": 1798,
+        "material": "Óleo sobre lienzo",
+        "localization": "Colección Pani",
+        "mov": "Romanticismo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/La_cocina_de_las_brujas_por_Francisco_Goya.jpg/640px-La_cocina_de_las_brujas_por_Francisco_Goya.jpg",
+        "info": "https://bvpb.mcu.es/es/consulta/registro.do?id=479548",
+        "rec": "Berganza y Cañizares"
+    },
+    {
+        "id": 8,
+        "title": "El hechizado",
+        "autor": "Francisco de Goya",
+        "year": 1798,
+        "material": "Óleo sobre lienzo",
+        "localization": "The National Gallery, Londres",
+        "mov": "Romanticismo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/El_hechizado_por_fuerza%2C_por_Goya.jpg",
+        "info": "https://www.artehistoria.com/es/obra/el-hechizado-por-fuerza",
+        "rec": "escena del Acto II de la comedia El hechizado por fuerza de Antonio de Zamora"
+    },
+    {
+        "id": 12,
+        "title": "Mala mujer",
+        "autor": "Francisco de Goya",
+        "year": 1823,
+        "material": "Aguada de tinta china sobre papel",
+        "localization": "Louvre, París (Francia)",
+        "mov": "Romanticismo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Francisco_de_Goya_-_Mala_Mujer.jpg",
+        "info": "https://historia-arte.com/obras/mala-mujer",
+        "rec": "Sólo vemos a viejas hechiceras flotando o cayendo en el espacio, y en muchos de los rostros es fácil confundir la carcajada con la mueca de dolor, de espanto o de locura"
+    },
+    {
+        "id": 11,
+        "title": "Mujer en trance rodeada de brujas",
+        "autor": "Francisco de Goya",
+        "year": 1828,
+        "material": "Lápiz negro y lápiz litográfico sobre papel verjurado",
+        "localization": "Colección particular, Estados Unidos",
+        "mov": "Romanticismo",
+        "img": "https://fundaciongoyaenaragon.es/files/resize/800x600/files/images/h-2591698.jpg",
+        "info": "https://fundaciongoyaenaragon.es/obra/mujer-en-trance-rodeada-de-brujas-h-25/1796",
+        "rec": "Una hermosa joven se encuentra acostada sobre una cama, con la cabeza apoyada sobre una almohada y rodeada de inquietantes y oscuros personajes."
     },
     {
         "id": 3,
@@ -44,135 +164,16 @@
         "info": "https://historia-arte.com/obras/brujas-yendo-al-sabbath"
     },
     {
-        "id": 5,
-        "title": "El aquelarre",
-        "autor": "Francisco de Goya",
-        "year": 1798,
-        "material": "Óleo, canvas",
-        "localization": "Museo Lázaro Galdiano, Madrid",
-        "mov": "Romanticismo",
-        "img": "https://uploads4.wikiart.org/00380/images/francisco-goya/3-witches-sabbath-francisco-goya.jpg!Large.jpg",
-        "info": "https://fundaciongoyaenaragon.es/obra/el-aquelarre/526"
-    },
-    {
-        "id": 6,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 7,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 8,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 9,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 10,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 11,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 12,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 13,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 14,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
         "id": 15,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
+        "title": "Macbeth y las Brujas",
+        "autor": "Eugène Delacroix",
+        "year": 1825,
+        "material": "Grabado en papel",
+        "localization": "El Museo De Eugène Delacroix, Paris",
+        "mov": "Romanticismo",
+        "img": "https://i.pinimg.com/originals/59/8c/25/598c254bf7e03c2bf4cb12a2fd4ae590.jpg",
+        "info": "https://news.artnet.com/art-world/louvre-delacroix-retrospective-look-1267508",
+        "rec": "Macbeth consultando a las brujas"
     },
     {
         "id": 16,
