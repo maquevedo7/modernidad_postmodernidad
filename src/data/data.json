@@ -1,5 +1,17 @@
 [
     {
+        "id": 16,
+        "title": "Las cuatro brujas",
+        "autor": "Alberto Durero",
+        "year": 1497,
+        "material": "Estampa y Papel",
+        "localization": "Galería Nacional de Arte, Estados Unidos). Museo de Israel",
+        "mov": "Renacimiento",
+        "img": "https://www.meisterdrucke.es/kunstwerke/1200w/Albrecht%20Drer%20-%20The%20Four%20Witches%201497%20%20-%20%28MeisterDrucke-78221%29.jpg",
+        "info": "https://hmong.es/wiki/The_Four_Witches",
+        "rec": ""
+    },
+    {
         "id": 13,
         "title": "Dos brujas",
         "autor": "Hans Baldung",
@@ -9,7 +21,7 @@
         "mov": "Renacimiento",
         "img": "https://www.meisterdrucke.es/kunstwerke/1200w/Hans_Baldung_-_Two_Witches_-_%28MeisterDrucke-806506%29.jpg",
         "info": "https://www.wikiart.org/en/hans-baldung/two-witches-1523",
-        "rec": ""
+        "rec": "Belleza similar con cada mujer que vemos pasar, hipnotizante y bella sin azar. Pero un macho cabrío te debe acompañar, para bruja hacerte llamar."
     },
     {
         "id": 1,
@@ -21,7 +33,19 @@
         "mov": "Barroco",
         "img": "https://c8.alamy.com/zoomses/9/c02f443dc0c444f5b498fda12ca98fa1/rcy8yp.jpg",
         "info": "https://www.meisterdrucke.es/impresion-art%C3%ADstica/Frans-II-Francken/1028694/La-cocina-de-las-brujas---Frans-Francken,-el-Joven-(1581-1642).-%C3%93leo-sobre-madera,-c.-1610.-Dimensiones-:-52x66,1-cm.-Museo-de-Historia-del-Arte,-Vienne.html",
-        "rec": "debería llamarse Berganza y Cañizares, pues representa a estos personajes de la Novela Ejemplar de Miguel de Cervantes"
+        "rec": "Mejor nombre le daba Berganza y Cañizares, pues aquí representa a estos personajes singulares. De la Novela Ejemplar de Miguel de Cervantes"
+    },
+    {
+        "id": 17,
+        "title": "Brujas en sus encantamientos",
+        "autor": "Salvatore Rosa",
+        "year": 1646,
+        "material": "Pintura al óleo",
+        "localization": "No hay información",
+        "mov": "Barroco",
+        "img": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2010/4/14/1271242550443/Salvator-Rosas-Witches-at-001.jpg?width=465&quality=85&dpr=1&s=none",
+        "info": "https://www.20minutos.es/noticia/2380179/0/salvator-rosa/brujeria-magia/exposicion/",
+        "rec": ""
     },
     {
         "id": 14,
@@ -44,7 +68,8 @@
         "localization": "Museo Metropolitano, Nueva York (Estados Unidos)",
         "mov": "Romanticismo",
         "img": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZXAxOTgwLTQxMS1yLTEuanBnIiwicmVzaXplLDIwMDAsMjAwMCJdfQ.1U6ZByG0LRYElc4NfOESXVdoyqPV6yUnaQd2lVSwjTI.jpg",
-        "info": "https://historia-arte.com/obras/la-bruja-de-la-noche-visitando-las-brujas-de-laponia"
+        "info": "https://historia-arte.com/obras/la-bruja-de-la-noche-visitando-las-brujas-de-laponia",
+        "rec": "Hécate, vuela llameante, eclipsa el resplandor de la luna con esa belleza hipnotizante"
     },
     {
         "id": 10,
@@ -78,7 +103,7 @@
         "localization": "Museo Lázaro Galdano , Madrid",
         "mov": "Romanticismo",
         "img": "https://uploads6.wikiart.org/images/francisco-goya/incantation.jpg!Large.jpg",
-        "info": "https://pinturasdiversas-demeza.blogspot.com/2013/10/el-conjuro-o-las-brujas-francisco-de_7.html",
+        "info": "http://mismuseos.net/en/community/metamuseo/resource/el-conjuro-o-las-brujas/b3a5143d-478d-4020-ae62-a2a4f76dc33c",
         "rec": "a menudo se acusaba a las brujas de secuestrar y asesinar ritualmente a niños, como parte de un sacrificio a Satán."
     },
     {
@@ -92,17 +117,6 @@
         "img": "https://uploads4.wikiart.org/00380/images/francisco-goya/3-witches-sabbath-francisco-goya.jpg!Large.jpg",
         "info": "https://fundaciongoyaenaragon.es/obra/el-aquelarre/526",
         "rec": "en aquella época se tenía de las brujas acusadas de chupar la sangre de los niños"
-    },
-    {
-        "id": 6,
-        "title": "El conjuro",
-        "autor": "Francisco de Goya",
-        "year": 1798,
-        "material": "Óleo sobre lienzo",
-        "localization": "Museo Lázaro Galdiano, Madrid",
-        "mov": "Romanticismo",
-        "img": "https://fundaciongoyaenaragon.es/files/resize/800x600/files/images/527_7.4.50.JPG",
-        "info": "http://mismuseos.net/en/community/metamuseo/resource/el-conjuro-o-las-brujas/b3a5143d-478d-4020-ae62-a2a4f76dc33c"
     },
     {
         "id": 7,
@@ -141,6 +155,18 @@
         "rec": "Sólo vemos a viejas hechiceras flotando o cayendo en el espacio, y en muchos de los rostros es fácil confundir la carcajada con la mueca de dolor, de espanto o de locura"
     },
     {
+        "id": 15,
+        "title": "Macbeth y las Brujas",
+        "autor": "Eugène Delacroix",
+        "year": 1825,
+        "material": "Grabado en papel",
+        "localization": "El Museo De Eugène Delacroix, Paris",
+        "mov": "Romanticismo",
+        "img": "https://i.pinimg.com/originals/59/8c/25/598c254bf7e03c2bf4cb12a2fd4ae590.jpg",
+        "info": "https://news.artnet.com/art-world/louvre-delacroix-retrospective-look-1267508",
+        "rec": "Macbeth consultando a las brujas"
+    },
+    {
         "id": 11,
         "title": "Mujer en trance rodeada de brujas",
         "autor": "Francisco de Goya",
@@ -162,42 +188,6 @@
         "mov": "Romanticismo",
         "img": "https://cdn130.picsart.com/275230562014201.jpg",
         "info": "https://historia-arte.com/obras/brujas-yendo-al-sabbath"
-    },
-    {
-        "id": 15,
-        "title": "Macbeth y las Brujas",
-        "autor": "Eugène Delacroix",
-        "year": 1825,
-        "material": "Grabado en papel",
-        "localization": "El Museo De Eugène Delacroix, Paris",
-        "mov": "Romanticismo",
-        "img": "https://i.pinimg.com/originals/59/8c/25/598c254bf7e03c2bf4cb12a2fd4ae590.jpg",
-        "info": "https://news.artnet.com/art-world/louvre-delacroix-retrospective-look-1267508",
-        "rec": "Macbeth consultando a las brujas"
-    },
-    {
-        "id": 16,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
-    },
-    {
-        "id": 17,
-        "title": "",
-        "autor": "",
-        "year": 1606,
-        "material": "",
-        "localization": "",
-        "mov": "",
-        "img": "",
-        "info": "",
-        "rec": ""
     },
     {
         "id": 18,
